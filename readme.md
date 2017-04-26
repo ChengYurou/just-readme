@@ -50,9 +50,9 @@ git init
 git remote add origin url
 ```
 4. 请使用**git提交(commit)，**并**上传(push)**，之后将此github仓库地址(用户自建的) eg:（https://github.com/username/repo） 填入到**git仓库地址**一栏,如下图
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/1940198-704627e4b73e302b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/1940198-65c25cb8279f99c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 5. 获取分支，填入到**git仓库分支**一栏，如下图
-![Paste_branch.png](http://upload-images.jianshu.io/upload_images/1940198-0c239ae173d5707a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/1940198-704627e4b73e302b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 6. 提交
 7. 等待结果
 
