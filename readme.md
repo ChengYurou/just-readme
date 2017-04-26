@@ -61,8 +61,7 @@ git基础
 ### 编程题模板库地址
 本题不存在编程题模板库地址
 ### 参考资料
-```
+
 1. [try git](https://try.github.io/levels/1/challenges/1)
 2. [Git 参考手册](http://gitref.org/zh/index.html)
 3. [github用法](https://guides.github.com/activities/hello-world/)
-```
