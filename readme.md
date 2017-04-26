@@ -34,9 +34,9 @@
 
 根据如下顺序完成题目：
 ```
-1. 请新建一个github账户
-2. 请初始化一个github仓库
-3. 请在该库内新建一个名为`readme.md`的文件(注意全部小写)
+1. 新建一个github账户
+2. 初始化一个github仓库
+3. 在该库内新建一个名为`readme.md`的文件(注意全部小写)
 ```
 ### 答题流程
 
@@ -49,16 +49,11 @@ git init
 ```
 git remote add origin url
 ```
-4. 请使用**git提交(commit)，**并**上传(push)**，之后将此github仓库地址(用户自建的) eg:（https://github.com/username/repo） 填入到**git仓库地址**一栏
-
-![github-address.png](http://upload-images.jianshu.io/upload_images/1940198-b69aaad5be700d55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-5. 获取分支，填入到**git仓库分支**一栏
-
-![github-branch.png](http://upload-images.jianshu.io/upload_images/1940198-9f4fa6638e0cc0a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+4. 请使用**git提交(commit)，**并**上传(push)**，之后将此github仓库地址(用户自建的) eg:（https://github.com/username/repo） 填入到**git仓库地址**一栏,如下图
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/1940198-704627e4b73e302b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+5. 获取分支，填入到**git仓库分支**一栏，如下图
+![Paste_branch.png](http://upload-images.jianshu.io/upload_images/1940198-0c239ae173d5707a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 6. 提交
-
 7. 等待结果
 
 ### 考察要点
